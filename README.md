@@ -4,5 +4,5 @@
 
 ### Not up on personal website yet...
 
-Here is a demo though: https://blazing.netlify.app/
+Here is a demo though: https://blazing-light.netlify.app/
 Took way too long
