@@ -1,8 +1,6 @@
 # Blazing Fast Password Generator
 
-## React, Tailwind, Typescript, Vite
-
-### Not up on personal website yet...
+stupid test project
 
 Here is a demo though: https://blazing-light.netlify.app/
 Took way too long
