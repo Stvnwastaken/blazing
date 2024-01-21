@@ -13,9 +13,9 @@ function App() {
 				<a
 					className="text-orange-500 underline"
 					target="_blank"
-					href="https://github.com/LightLordYT"
+					href="https://github.com/stvnwastaken"
 				>
-					LightLord
+					Stvn
 				</a>
 			</h1>
 			<Form />
